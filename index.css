@@ -1,0 +1,30 @@
+
+body{
+    background-color: lightblue;
+    user-select: none;
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    max-width: 320px;
+    margin: 30px auto;
+}
+
+#gym-logo{
+    width: 250px;
+    margin: 40px 20px auto auto;
+    border-radius: 5px;
+}
+
+h4{
+    text-align: center;
+}
+
+.buttons{
+    text-align: center;
+    margin: 8px 20px;
+    padding: 12px;
+    border: none;
+    border-radius: 5px;
+}
